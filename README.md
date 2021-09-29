@@ -10,4 +10,4 @@
   my real life experiences to create truly memorable web presence.
 
 ## Portfolio
-   https://tallen1985.github.io/02-Homework-Portfolio/
+   https://tallen1985.github.io/Portfolio/
